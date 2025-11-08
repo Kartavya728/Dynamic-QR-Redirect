@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.canva.com/projects",
+      "permanent": true
+    }
+  ]
+}
